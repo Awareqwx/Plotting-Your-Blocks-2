@@ -1,0 +1,50 @@
+/*CSS reset settings here*/
+*{
+    margin: 0px;
+    padding: 0px;
+   }
+   .wrapper{
+    width: 950px;
+    background-color: silver;
+    margin: 0px auto;
+    text-align: center;
+   }
+   .header{
+    height: 150px;
+    width: 46%;
+    margin: 11px;
+    background-color: red;
+    display: inline-block;
+   }
+   .advertisement{
+    height: 150px;
+    width: 900px;
+    margin: 12px;
+    border: 12px;
+    background-color: blue;
+    display: inline-block;
+   }
+   .maincontent{
+    height: 150px;
+    width: 30%;
+    margin: 10px;
+    background-color: yellow;
+    display: inline-block;
+   }
+   .footer{
+    height: 200px;
+    width: 900px;
+    margin: 12px;
+    background-color: green;
+    display: inline-block;
+   }
+   .footercontent{
+    height: 150px;
+    width: 150px;
+    margin: 25px;
+    background-color: purple;
+    display: inline-block;
+   }
+   #footercontent2{
+    margin-left: 500px;
+   }
